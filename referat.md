@@ -11,5 +11,5 @@
     * born on 30 December 1950
 
 [source of text](https://en.wikipedia.org/wiki/Bjarne_Stroustrup) to date 23.9. 2026  
-[source of foto](https://en.wikipedia.org/wiki/File:Bjarne_Stroustrup_(2013).jpg) to date 23.9.
+[source of foto](https://en.wikipedia.org/wiki/File:Bjarne_Stroustrup_(2013).jpg) to date 23.9. 2026
 
