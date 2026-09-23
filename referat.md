@@ -1,4 +1,4 @@
-### **Referat na Bjarne Stroustrup**  
+# **Referat on Bjarne Stroustrup**  
 
 ![foto of Bjarne Stroustrup from wiki](pictures/Bjarne_Stroustrup_(2013).jpg)
 
