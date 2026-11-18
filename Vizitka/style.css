@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: hsla(233, 10%, 17%, 0.713);
+    text-align: center;
+}
+
+
+.card {
+    height: 400px;
+    width: 600px;
+    background-color: hsla(278, 100%, 22%, 0.337);
+    border: solid black ;
+    border-radius: 1em;
+    box-shadow: 0 0 1000px hsl(300, 100%, 19%);
+    color: hsl(227, 100%, 2%);
+
+    display: flex;
+    flex-direction: column;
+}
+
+.firstColumnCard{
+    display: flex;
+    height: 250px;
+}
+
+.profilePicture {
+    height: 250px;
+    float: left;
+    margin-top: 1px;
+    margin-right: 1px;
+    margin-right: 10px;
+    border-radius: 1em;
+    border: solid 0.1px hsla(0, 0%, 0%, 0.342);
+    box-shadow: 0 0 10px hsl(0, 0%, 0%);
+}
+
+.card ul {
+    text-align: left;
+}
+
+.secondColumnCard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+.secondColumnCard button{
+    height: 50px;
+    width: 200px;
+    border-radius: 0.5em;
+    border: solid black 2px;
+    background-color: hsla(300, 100%, 50%, 0.381);
+    transition-duration: 0.4s;
+}
+button:hover{
+    background-color: rgb(240, 235, 245);
+    cursor: pointer;
+}
